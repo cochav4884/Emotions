@@ -179,12 +179,21 @@ section {
   margin-bottom: 15px;
   border: 10px double rgb(12, 12, 12);
   box-shadow: 4px 8px 10px rgb(35, 21, 87);
-  height: 500px;
+  height: 800px;
   padding-top: 47px;
   margin-top: 15px;
+  text-align: center;
 }
 
 img {
   border: 10px double rgb(12, 12, 12);
   box-shadow: 4px 8px 10px rgb(35, 21, 87);
+}
+
+h3 {
+  color: rgb(0, 0, 255);
+}
+
+.h3 {
+  color: rgb(0, 0, 255);
 }

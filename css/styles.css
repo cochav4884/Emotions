@@ -46,7 +46,6 @@ header {
   border-radius: 50px;
   box-shadow: 4px 8px 10px rgb(0, 0, 255);
   cursor: pointer;
-  margin-left: 62px;
 }
 
 .dropdown:hover {
@@ -179,7 +178,7 @@ header {
 
 section {
   margin-bottom: 15px;
-  height: 800px;
+  height: 691px;
   padding-top: 47px;
   margin-top: 15px;
   text-align: center;

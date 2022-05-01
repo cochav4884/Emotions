@@ -176,6 +176,20 @@ header {
   color: rgb(255, 255, 255);
 }
 
+.col {
+  border: 2px solid rgb(12, 12, 12);
+  padding: 25px;
+  margin: 10px;
+  text-align: center;
+  font-size: larger;
+  margin-left: 70px;
+  margin-top: 25px;
+  font-weight: bold;
+  font-family:cursive;
+  text-decoration: none;
+}
+
+
 section {
   margin-bottom: 15px;
   height: 691px;
@@ -186,5 +200,6 @@ section {
 
 img {
   border: 10px double rgb(12, 12, 12);
+  object-fit: cover;
 }
 

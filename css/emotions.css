@@ -3,6 +3,32 @@ body {
     background: linear-gradient(90deg, rgba(54, 17, 203, 1) 16%, rgba(14, 180, 223, 1) 68%, rgba(77, 208, 0, 1) 97%);
   }
   
-h1, h2, h3 {
+h1 {
     text-align: center;
+    font-size: 48px;
+    box-shadow: 4px 8px 10px rgb(12, 12, 12);
+    font-weight: bold;
+} 
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+    box-shadow: 4px 8px 10px rgb(12, 12, 12);
+    font-weight: bold;
+} 
+
+h3 {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.angry {
+font-weight: bold;
+font-size: 20px;
+text-align: left;
+margin-left: 400px;
+line-height: 2.0;
+font-weight: bold;
+color: rgb(255, 255, 255, 0.725);
 }
